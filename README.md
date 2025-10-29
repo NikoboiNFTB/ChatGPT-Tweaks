@@ -54,7 +54,7 @@ A collection of useful user scripts to enhance the ChatGPT experience by automat
 **Description**: Removes the 'content-fade' effect at the bottom of the ChatGPT page, useful when using browsers like LibreWolf and DarkReader.
 
 **How it works**:
-- The script replaces the specific class (`content-fade`) that causes the unwanted fade at the bottom of the page with a modified class to remove it.
+- The script replaces the specific class `content-fade` that causes the unwanted fade at the bottom of the page with a modified class to remove it.
 
 ## License
 
