@@ -34,14 +34,14 @@ A collection of useful user scripts to enhance the ChatGPT experience by automat
 
 ## Scripts
 
-### 1. ChatGPT - Auto Continue Generating ([link](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/Auto-Continue-Generating-1.0.user.js))
+### 1. ChatGPT - Auto Continue Generating ([install](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/Auto-Continue-Generating-1.0.user.js))
 
 **Description**: Automatically clicks the "Continue generating" button when it appears.
 
 **How it works**: 
 - Observes the page for changes and clicks the "Continue generating" button when it appears.
 
-### 2. ChatGPT - Auto "Stay Logged Out" ([link](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/Auto-Stay-Logged-Out-1.0.user.js))
+### 2. ChatGPT - Auto "Stay Logged Out" ([install](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/Auto-Stay-Logged-Out-1.0.user.js))
 
 **Description**: Automatically clicks the "Stay logged out" option when the login prompt is shown.
 
@@ -49,7 +49,7 @@ A collection of useful user scripts to enhance the ChatGPT experience by automat
 - This script checks for the "Stay logged out" link and clicks it when detected.
 - It also observes the page to handle any dynamic loading of the prompt.
 
-### 3. ChatGPT - Remove Fade ([link](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/ChatGPT-Remove-Fade-1.0.user.js))
+### 3. ChatGPT - Remove Fade ([install](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/ChatGPT-Remove-Fade-1.0.user.js))
 
 **Description**: Removes the 'content-fade' effect at the bottom of the ChatGPT page, useful when using browsers like LibreWolf and DarkReader.
 
