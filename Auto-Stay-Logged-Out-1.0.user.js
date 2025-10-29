@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto "Stay Logged Out"
+// @name         ChatGPT - Auto "Stay Logged Out"
 // @namespace    https://github.com/NikoboiNFTB/ChatGPT-Tweaks/
 // @version      1.0
 // @description  Automatically clicks "Stay logged out" when the login prompt it appears.
