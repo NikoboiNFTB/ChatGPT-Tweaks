@@ -27,7 +27,7 @@ A collection of useful user scripts to enhance the ChatGPT experience by automat
    - [Tampermonkey Chrome Extension](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    
 2. **Install Scripts (Choose a way, listed easiest to hardest)**:
-   - Click the links down below in the [Scripts](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/blob/main/README.md#scripts) section, then install when prompted.
+   - Click the links down below in the [Scripts](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/tree/main?tab=readme-ov-file#scripts) section, then install when prompted.
    - Click the script in the repository, and click "Raw" in the top-right corner, then install when prompted by your userscript manager.
    - Copy and paste the code into a new userscript in your manager.
    - Download the user scripts and import them manually.
