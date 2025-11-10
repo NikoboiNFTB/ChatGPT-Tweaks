@@ -21,7 +21,7 @@ Automatically clicks the "Stay logged out" option when the login prompt is shown
 - This script checks for the "Stay logged out" link and clicks it when detected.
 - It also observes the page to handle any dynamic loading of the prompt.
 
-### 3. ChatGPT - Remove Fade ([install](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/ChatGPT-Remove-Fade-1.0.user.js))
+### 3. ChatGPT - Remove Fade ([install](https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/Remove-Fade-1.1.user.js))
 
 Removes the 'content-fade' effect at the bottom of the ChatGPT page, useful when using browsers like LibreWolf and DarkReader.
 
