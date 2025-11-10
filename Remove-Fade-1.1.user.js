@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ChatGPT - Force Remove Fade
+// @name         ChatGPT - Remove Fade
 // @namespace    https://github.com/NikoboiNFTB/ChatGPT-Tweaks/
 // @version      1.1
 // @description  Forcibly removes 'content-fade' from the bottom container on chatgpt.com without timers. More stable.
