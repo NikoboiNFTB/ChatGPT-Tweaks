@@ -25,14 +25,14 @@ Automatically clicks the "Stay logged out" option when the login prompt is shown
 
 Removes the 'content-fade' effect at the bottom of the ChatGPT page, useful when using browsers like LibreWolf and DarkReader.
 
-## License
-
-This repository is licensed under the **GNU General Public License v3.0 (GPLv3)**. See [LICENSE](LICENSE) for details.
-
 ## Contributing
 
-Feel free to fork this repository and create pull requests for new features or improvements. If you encounter any issues, please open an issue to discuss it.
+Feel free to fork this repository and submit issues or pull requests if you have any suggestions or improvements. If you encounter any bugs or have feature requests, please open an issue.
 
-## Disclaimer
+## Credits
 
-These scripts are not officially endorsed by OpenAI and are intended for personal use. Use at your own risk.
+Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
+
+## License
+
+This project is licenced under the GNU General Public License V3. See [LICENSE](LICENSE) for details.
