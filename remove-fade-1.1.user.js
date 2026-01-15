@@ -2,7 +2,7 @@
 // @name         ChatGPT - Remove Fade
 // @namespace    https://github.com/NikoboiNFTB/ChatGPT-Tweaks/
 // @version      1.1
-// @description  Forcibly removes 'content-fade' from the bottom container on chatgpt.com without timers. More stable.
+// @description  Removes 'content-fade' from the bottom container on chatgpt.com.
 // @author       Nikoboi
 // @match        https://chatgpt.com/*
 // @icon         https://cdn.oaistatic.com/assets/favicon-eex17e9e.ico

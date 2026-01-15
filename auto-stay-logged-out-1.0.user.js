@@ -27,10 +27,8 @@
         return false;
     }
 
-    // Try immediately
     if (clickStayLoggedOut()) return;
 
-    // Observe DOM changes to catch it when it appears
     const observer = new MutationObserver(() => {
         if (clickStayLoggedOut()) {
             observer.disconnect();
