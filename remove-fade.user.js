@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT - Remove Fade
 // @namespace    https://github.com/NikoboiNFTB/ChatGPT-Tweaks/
+// @downloadURL  https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/remove-fade.user.js
 // @version      1.1
 // @description  Removes 'content-fade' from the bottom container on chatgpt.com.
 // @author       Nikoboi

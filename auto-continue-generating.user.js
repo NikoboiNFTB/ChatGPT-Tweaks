@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT - Auto Continue Generating
 // @namespace    https://github.com/NikoboiNFTB/ChatGPT-Tweaks/
+// @downloadURL  https://github.com/NikoboiNFTB/ChatGPT-Tweaks/raw/refs/heads/main/auto-continue-generating.user.js
 // @version      1.0
 // @description  Automatically click the "Continue generating" button on ChatGPT.
 // @author       Nikoboi
